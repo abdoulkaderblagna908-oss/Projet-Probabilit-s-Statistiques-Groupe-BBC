@@ -2,6 +2,19 @@
 ## 🎯 Objectif
 Analyse statistique des cas de fraude en assurance
 
+## 📂 Structure du projet
+
+```
+proba-stat-project/
+│
+├── data/          # fichiers de données
+├── notebooks/     # analyses Jupyter
+├── src/           # scripts Python
+├── images/        # graphiques
+├── report/        # rapport final
+└── README.md
+```
+
 ## 📁 Données
 
 Description du dataset utilisé
