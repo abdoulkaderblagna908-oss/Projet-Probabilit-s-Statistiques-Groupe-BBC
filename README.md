@@ -1,2 +1,22 @@
 # Projet-Probabilit-s-Statistiques-Groupe-BBC
-Ceci est un projet académique portant sur le module de Probabilités &amp; Statistiques. Il est développé par un groupe de trois étudiants l'Ecole Polytechnique de Ouagadougou (BF).
+## 🎯 Objectif
+Analyse statistique des cas de fraude en assurance
+
+## 📁 Données
+
+Description du dataset utilisé
+
+## 🔍 Méthodes
+* Statistiques descriptives
+* Probabilités
+* Régression / corrélation
+## 📈 Résultats
+Résumé des conclusions principales
+
+## 🛠️ Outils
+* Python (pandas, matplotlib)
+* Jupyter Notebook
+## 👥 Auteurs
+* BAGAYA Seydou
+* BLAGNA Abdoul Kader
+* Coulibaly Stanislas
