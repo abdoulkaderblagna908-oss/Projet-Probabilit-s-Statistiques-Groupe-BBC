@@ -1,6 +1,6 @@
-# Projet-Probabilit-s-Statistiques-Groupe-BBC
+# Projet-Probabilités-Statistiques-Groupe-BBC
 ## 🎯 Objectif
-Analyse statistique des cas de fraude en assurance
+Analyse statistique des cas de fraude en assurance automobile
 
 ## 📂 Structure du projet
 
@@ -15,9 +15,10 @@ proba-stat-project/
 └── README.md
 ```
 
-## 📁 Données
+## 📁 Données: Vehicle Insurance Fraud Detection
+**Vehicle Insurance Fraud Detection** est un ensemble de données concernant des réclamations d'assurance automobile.  Il a été fourni par Angoss Knowledge Seeker et disponible sur [kaggle](https://www.kaggle.com/datasets/khusheekapoor/vehicle-insurance-fraud-detection?resource=download).
 
-Description du dataset utilisé
+
 
 ## 🔍 Méthodes
 * Statistiques descriptives
@@ -32,4 +33,4 @@ Résumé des conclusions principales
 ## 👥 Auteurs
 * BAGAYA Seydou
 * BLAGNA Abdoul Kader
-* Coulibaly Stanislas
+* COULIBALY Stanislas
