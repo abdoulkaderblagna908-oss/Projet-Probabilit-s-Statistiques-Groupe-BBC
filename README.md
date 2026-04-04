@@ -9,7 +9,7 @@ proba-stat-project/
 │
 ├── data/          # fichiers de données
 ├── notebooks/     # analyses Jupyter
-├── src/           # scripts Python
+├── app/           # application tkinter
 ├── images/        # graphiques
 ├── report/        # rapport final
 └── README.md
@@ -24,11 +24,9 @@ proba-stat-project/
 * Statistiques descriptives
 * Probabilités
 * Régression / corrélation
-## 📈 Résultats
-Résumé des conclusions principales
 
 ## 🛠️ Outils
-* Python (pandas, matplotlib)
+* Python (tkinter, numpy, pandas, matplotlib, ...)
 * Jupyter Notebook
 ## 👥 Auteurs
 * BAGAYA Seydou
